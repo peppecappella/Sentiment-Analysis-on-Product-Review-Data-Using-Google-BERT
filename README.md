@@ -1,4 +1,4 @@
-# Sentiment Analysis of Customer Reviews Using BERT 
+# Sentiment Analysis on Product Review Data Using Google BERT
 
 Author: Giuseppe Cappella
 
