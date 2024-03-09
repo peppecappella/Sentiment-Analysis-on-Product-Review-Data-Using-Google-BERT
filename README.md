@@ -1,4 +1,4 @@
-# Sentiment Analysis of Customer Reviews Using BERT and TensorFlow
+# Sentiment Analysis of Customer Reviews Using BERT 
 
 Author: Giuseppe Cappella
 
